@@ -1,0 +1,521 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04CD8B9C1CFE1E6000E8C7B1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04CD8B9B1CFE1E6000E8C7B1 /* main.m */; };
+		04CD8B9F1CFE1E6000E8C7B1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04CD8B9E1CFE1E6000E8C7B1 /* AppDelegate.m */; };
+		04CD8BA21CFE1E6000E8C7B1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04CD8BA11CFE1E6000E8C7B1 /* ViewController.m */; };
+		04CD8BA51CFE1E6000E8C7B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CD8BA31CFE1E6000E8C7B1 /* Main.storyboard */; };
+		04CD8BA71CFE1E6000E8C7B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04CD8BA61CFE1E6000E8C7B1 /* Assets.xcassets */; };
+		04CD8BAA1CFE1E6000E8C7B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CD8BA81CFE1E6000E8C7B1 /* LaunchScreen.storyboard */; };
+		04CD8BB51CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04CD8BB41CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests.m */; };
+		04CD8BC01CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04CD8BBF1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		04CD8BB11CFE1E6000E8C7B1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04CD8B8F1CFE1E6000E8C7B1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04CD8B961CFE1E6000E8C7B1;
+			remoteInfo = SkutHW26ControlsPart2;
+		};
+		04CD8BBC1CFE1E6000E8C7B1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04CD8B8F1CFE1E6000E8C7B1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04CD8B961CFE1E6000E8C7B1;
+			remoteInfo = SkutHW26ControlsPart2;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		04CD8B971CFE1E6000E8C7B1 /* SkutHW26ControlsPart2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SkutHW26ControlsPart2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04CD8B9B1CFE1E6000E8C7B1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		04CD8B9D1CFE1E6000E8C7B1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		04CD8B9E1CFE1E6000E8C7B1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		04CD8BA01CFE1E6000E8C7B1 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		04CD8BA11CFE1E6000E8C7B1 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		04CD8BA41CFE1E6000E8C7B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		04CD8BA61CFE1E6000E8C7B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		04CD8BA91CFE1E6000E8C7B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		04CD8BAB1CFE1E6000E8C7B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04CD8BB01CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SkutHW26ControlsPart2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04CD8BB41CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SkutHW26ControlsPart2Tests.m; sourceTree = "<group>"; };
+		04CD8BB61CFE1E6000E8C7B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04CD8BBB1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SkutHW26ControlsPart2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04CD8BBF1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SkutHW26ControlsPart2UITests.m; sourceTree = "<group>"; };
+		04CD8BC11CFE1E6000E8C7B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04CD8B941CFE1E6000E8C7B1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04CD8BAD1CFE1E6000E8C7B1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04CD8BB81CFE1E6000E8C7B1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04CD8B8E1CFE1E6000E8C7B1 = {
+			isa = PBXGroup;
+			children = (
+				04CD8B991CFE1E6000E8C7B1 /* SkutHW26ControlsPart2 */,
+				04CD8BB31CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests */,
+				04CD8BBE1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests */,
+				04CD8B981CFE1E6000E8C7B1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		04CD8B981CFE1E6000E8C7B1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04CD8B971CFE1E6000E8C7B1 /* SkutHW26ControlsPart2.app */,
+				04CD8BB01CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests.xctest */,
+				04CD8BBB1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04CD8B991CFE1E6000E8C7B1 /* SkutHW26ControlsPart2 */ = {
+			isa = PBXGroup;
+			children = (
+				04CD8B9D1CFE1E6000E8C7B1 /* AppDelegate.h */,
+				04CD8B9E1CFE1E6000E8C7B1 /* AppDelegate.m */,
+				04CD8BA01CFE1E6000E8C7B1 /* ViewController.h */,
+				04CD8BA11CFE1E6000E8C7B1 /* ViewController.m */,
+				04CD8BA31CFE1E6000E8C7B1 /* Main.storyboard */,
+				04CD8BA61CFE1E6000E8C7B1 /* Assets.xcassets */,
+				04CD8BA81CFE1E6000E8C7B1 /* LaunchScreen.storyboard */,
+				04CD8BAB1CFE1E6000E8C7B1 /* Info.plist */,
+				04CD8B9A1CFE1E6000E8C7B1 /* Supporting Files */,
+			);
+			path = SkutHW26ControlsPart2;
+			sourceTree = "<group>";
+		};
+		04CD8B9A1CFE1E6000E8C7B1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				04CD8B9B1CFE1E6000E8C7B1 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		04CD8BB31CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests */ = {
+			isa = PBXGroup;
+			children = (
+				04CD8BB41CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests.m */,
+				04CD8BB61CFE1E6000E8C7B1 /* Info.plist */,
+			);
+			path = SkutHW26ControlsPart2Tests;
+			sourceTree = "<group>";
+		};
+		04CD8BBE1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests */ = {
+			isa = PBXGroup;
+			children = (
+				04CD8BBF1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.m */,
+				04CD8BC11CFE1E6000E8C7B1 /* Info.plist */,
+			);
+			path = SkutHW26ControlsPart2UITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		04CD8B961CFE1E6000E8C7B1 /* SkutHW26ControlsPart2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04CD8BC41CFE1E6000E8C7B1 /* Build configuration list for PBXNativeTarget "SkutHW26ControlsPart2" */;
+			buildPhases = (
+				04CD8B931CFE1E6000E8C7B1 /* Sources */,
+				04CD8B941CFE1E6000E8C7B1 /* Frameworks */,
+				04CD8B951CFE1E6000E8C7B1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SkutHW26ControlsPart2;
+			productName = SkutHW26ControlsPart2;
+			productReference = 04CD8B971CFE1E6000E8C7B1 /* SkutHW26ControlsPart2.app */;
+			productType = "com.apple.product-type.application";
+		};
+		04CD8BAF1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04CD8BC71CFE1E6000E8C7B1 /* Build configuration list for PBXNativeTarget "SkutHW26ControlsPart2Tests" */;
+			buildPhases = (
+				04CD8BAC1CFE1E6000E8C7B1 /* Sources */,
+				04CD8BAD1CFE1E6000E8C7B1 /* Frameworks */,
+				04CD8BAE1CFE1E6000E8C7B1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04CD8BB21CFE1E6000E8C7B1 /* PBXTargetDependency */,
+			);
+			name = SkutHW26ControlsPart2Tests;
+			productName = SkutHW26ControlsPart2Tests;
+			productReference = 04CD8BB01CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		04CD8BBA1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04CD8BCA1CFE1E6000E8C7B1 /* Build configuration list for PBXNativeTarget "SkutHW26ControlsPart2UITests" */;
+			buildPhases = (
+				04CD8BB71CFE1E6000E8C7B1 /* Sources */,
+				04CD8BB81CFE1E6000E8C7B1 /* Frameworks */,
+				04CD8BB91CFE1E6000E8C7B1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04CD8BBD1CFE1E6000E8C7B1 /* PBXTargetDependency */,
+			);
+			name = SkutHW26ControlsPart2UITests;
+			productName = SkutHW26ControlsPart2UITests;
+			productReference = 04CD8BBB1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04CD8B8F1CFE1E6000E8C7B1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = Mac;
+				TargetAttributes = {
+					04CD8B961CFE1E6000E8C7B1 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					04CD8BAF1CFE1E6000E8C7B1 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 04CD8B961CFE1E6000E8C7B1;
+					};
+					04CD8BBA1CFE1E6000E8C7B1 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 04CD8B961CFE1E6000E8C7B1;
+					};
+				};
+			};
+			buildConfigurationList = 04CD8B921CFE1E6000E8C7B1 /* Build configuration list for PBXProject "SkutHW26ControlsPart2" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 04CD8B8E1CFE1E6000E8C7B1;
+			productRefGroup = 04CD8B981CFE1E6000E8C7B1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04CD8B961CFE1E6000E8C7B1 /* SkutHW26ControlsPart2 */,
+				04CD8BAF1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests */,
+				04CD8BBA1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04CD8B951CFE1E6000E8C7B1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04CD8BAA1CFE1E6000E8C7B1 /* LaunchScreen.storyboard in Resources */,
+				04CD8BA71CFE1E6000E8C7B1 /* Assets.xcassets in Resources */,
+				04CD8BA51CFE1E6000E8C7B1 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04CD8BAE1CFE1E6000E8C7B1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04CD8BB91CFE1E6000E8C7B1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04CD8B931CFE1E6000E8C7B1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04CD8BA21CFE1E6000E8C7B1 /* ViewController.m in Sources */,
+				04CD8B9F1CFE1E6000E8C7B1 /* AppDelegate.m in Sources */,
+				04CD8B9C1CFE1E6000E8C7B1 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04CD8BAC1CFE1E6000E8C7B1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04CD8BB51CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04CD8BB71CFE1E6000E8C7B1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04CD8BC01CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		04CD8BB21CFE1E6000E8C7B1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04CD8B961CFE1E6000E8C7B1 /* SkutHW26ControlsPart2 */;
+			targetProxy = 04CD8BB11CFE1E6000E8C7B1 /* PBXContainerItemProxy */;
+		};
+		04CD8BBD1CFE1E6000E8C7B1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04CD8B961CFE1E6000E8C7B1 /* SkutHW26ControlsPart2 */;
+			targetProxy = 04CD8BBC1CFE1E6000E8C7B1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		04CD8BA31CFE1E6000E8C7B1 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04CD8BA41CFE1E6000E8C7B1 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		04CD8BA81CFE1E6000E8C7B1 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04CD8BA91CFE1E6000E8C7B1 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		04CD8BC21CFE1E6000E8C7B1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		04CD8BC31CFE1E6000E8C7B1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04CD8BC51CFE1E6000E8C7B1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = SkutHW26ControlsPart2/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ID.SkutHW26ControlsPart2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		04CD8BC61CFE1E6000E8C7B1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = SkutHW26ControlsPart2/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ID.SkutHW26ControlsPart2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		04CD8BC81CFE1E6000E8C7B1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = SkutHW26ControlsPart2Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ID.SkutHW26ControlsPart2Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SkutHW26ControlsPart2.app/SkutHW26ControlsPart2";
+			};
+			name = Debug;
+		};
+		04CD8BC91CFE1E6000E8C7B1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = SkutHW26ControlsPart2Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ID.SkutHW26ControlsPart2Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SkutHW26ControlsPart2.app/SkutHW26ControlsPart2";
+			};
+			name = Release;
+		};
+		04CD8BCB1CFE1E6000E8C7B1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = SkutHW26ControlsPart2UITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ID.SkutHW26ControlsPart2UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = SkutHW26ControlsPart2;
+			};
+			name = Debug;
+		};
+		04CD8BCC1CFE1E6000E8C7B1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = SkutHW26ControlsPart2UITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ID.SkutHW26ControlsPart2UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = SkutHW26ControlsPart2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04CD8B921CFE1E6000E8C7B1 /* Build configuration list for PBXProject "SkutHW26ControlsPart2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04CD8BC21CFE1E6000E8C7B1 /* Debug */,
+				04CD8BC31CFE1E6000E8C7B1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04CD8BC41CFE1E6000E8C7B1 /* Build configuration list for PBXNativeTarget "SkutHW26ControlsPart2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04CD8BC51CFE1E6000E8C7B1 /* Debug */,
+				04CD8BC61CFE1E6000E8C7B1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		04CD8BC71CFE1E6000E8C7B1 /* Build configuration list for PBXNativeTarget "SkutHW26ControlsPart2Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04CD8BC81CFE1E6000E8C7B1 /* Debug */,
+				04CD8BC91CFE1E6000E8C7B1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		04CD8BCA1CFE1E6000E8C7B1 /* Build configuration list for PBXNativeTarget "SkutHW26ControlsPart2UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04CD8BCB1CFE1E6000E8C7B1 /* Debug */,
+				04CD8BCC1CFE1E6000E8C7B1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04CD8B8F1CFE1E6000E8C7B1 /* Project object */;
+}
