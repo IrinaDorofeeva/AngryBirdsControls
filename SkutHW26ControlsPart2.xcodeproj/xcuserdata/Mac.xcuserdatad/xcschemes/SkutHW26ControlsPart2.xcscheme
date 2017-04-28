@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "04CD8B961CFE1E6000E8C7B1"
+               BuildableName = "SkutHW26ControlsPart2.app"
+               BlueprintName = "SkutHW26ControlsPart2"
+               ReferencedContainer = "container:SkutHW26ControlsPart2.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "04CD8BAF1CFE1E6000E8C7B1"
+               BuildableName = "SkutHW26ControlsPart2Tests.xctest"
+               BlueprintName = "SkutHW26ControlsPart2Tests"
+               ReferencedContainer = "container:SkutHW26ControlsPart2.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "04CD8BBA1CFE1E6000E8C7B1"
+               BuildableName = "SkutHW26ControlsPart2UITests.xctest"
+               BlueprintName = "SkutHW26ControlsPart2UITests"
+               ReferencedContainer = "container:SkutHW26ControlsPart2.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "04CD8B961CFE1E6000E8C7B1"
+            BuildableName = "SkutHW26ControlsPart2.app"
+            BlueprintName = "SkutHW26ControlsPart2"
+            ReferencedContainer = "container:SkutHW26ControlsPart2.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "04CD8B961CFE1E6000E8C7B1"
+            BuildableName = "SkutHW26ControlsPart2.app"
+            BlueprintName = "SkutHW26ControlsPart2"
+            ReferencedContainer = "container:SkutHW26ControlsPart2.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "04CD8B961CFE1E6000E8C7B1"
+            BuildableName = "SkutHW26ControlsPart2.app"
+            BlueprintName = "SkutHW26ControlsPart2"
+            ReferencedContainer = "container:SkutHW26ControlsPart2.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

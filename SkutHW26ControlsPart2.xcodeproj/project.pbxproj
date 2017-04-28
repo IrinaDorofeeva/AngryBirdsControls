@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		047D72081EB27ADC00A262E8 /* angry birds-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 047D72051EB27ADC00A262E8 /* angry birds-01.png */; };
+		047D72091EB27ADC00A262E8 /* angry birds-02.png in Resources */ = {isa = PBXBuildFile; fileRef = 047D72061EB27ADC00A262E8 /* angry birds-02.png */; };
+		047D720A1EB27ADC00A262E8 /* angry birds-03.png in Resources */ = {isa = PBXBuildFile; fileRef = 047D72071EB27ADC00A262E8 /* angry birds-03.png */; };
 		04CD8B9C1CFE1E6000E8C7B1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04CD8B9B1CFE1E6000E8C7B1 /* main.m */; };
 		04CD8B9F1CFE1E6000E8C7B1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04CD8B9E1CFE1E6000E8C7B1 /* AppDelegate.m */; };
 		04CD8BA21CFE1E6000E8C7B1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04CD8BA11CFE1E6000E8C7B1 /* ViewController.m */; };
@@ -15,6 +18,10 @@
 		04CD8BAA1CFE1E6000E8C7B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CD8BA81CFE1E6000E8C7B1 /* LaunchScreen.storyboard */; };
 		04CD8BB51CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04CD8BB41CFE1E6000E8C7B1 /* SkutHW26ControlsPart2Tests.m */; };
 		04CD8BC01CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04CD8BBF1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.m */; };
+		04CD8BD01CFE1EDC00E8C7B1 /* tiger.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CD8BCD1CFE1EDC00E8C7B1 /* tiger.png */; };
+		04CD8BD11CFE1EDC00E8C7B1 /* fox.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CD8BCE1CFE1EDC00E8C7B1 /* fox.png */; };
+		04CD8BD21CFE1EDC00E8C7B1 /* deer.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CD8BCF1CFE1EDC00E8C7B1 /* deer.png */; };
+		04CD8C131CFFE9F100E8C7B1 /* red bird.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CD8C121CFFE9F100E8C7B1 /* red bird.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +42,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		047D72051EB27ADC00A262E8 /* angry birds-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "angry birds-01.png"; sourceTree = "<group>"; };
+		047D72061EB27ADC00A262E8 /* angry birds-02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "angry birds-02.png"; sourceTree = "<group>"; };
+		047D72071EB27ADC00A262E8 /* angry birds-03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "angry birds-03.png"; sourceTree = "<group>"; };
 		04CD8B971CFE1E6000E8C7B1 /* SkutHW26ControlsPart2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SkutHW26ControlsPart2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04CD8B9B1CFE1E6000E8C7B1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		04CD8B9D1CFE1E6000E8C7B1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +61,10 @@
 		04CD8BBB1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SkutHW26ControlsPart2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04CD8BBF1CFE1E6000E8C7B1 /* SkutHW26ControlsPart2UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SkutHW26ControlsPart2UITests.m; sourceTree = "<group>"; };
 		04CD8BC11CFE1E6000E8C7B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04CD8BCD1CFE1EDC00E8C7B1 /* tiger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tiger.png; sourceTree = "<group>"; };
+		04CD8BCE1CFE1EDC00E8C7B1 /* fox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fox.png; sourceTree = "<group>"; };
+		04CD8BCF1CFE1EDC00E8C7B1 /* deer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = deer.png; sourceTree = "<group>"; };
+		04CD8C121CFFE9F100E8C7B1 /* red bird.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "red bird.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +119,13 @@
 				04CD8B9E1CFE1E6000E8C7B1 /* AppDelegate.m */,
 				04CD8BA01CFE1E6000E8C7B1 /* ViewController.h */,
 				04CD8BA11CFE1E6000E8C7B1 /* ViewController.m */,
+				04CD8BCD1CFE1EDC00E8C7B1 /* tiger.png */,
+				04CD8C121CFFE9F100E8C7B1 /* red bird.png */,
+				04CD8BCE1CFE1EDC00E8C7B1 /* fox.png */,
+				04CD8BCF1CFE1EDC00E8C7B1 /* deer.png */,
+				047D72051EB27ADC00A262E8 /* angry birds-01.png */,
+				047D72061EB27ADC00A262E8 /* angry birds-02.png */,
+				047D72071EB27ADC00A262E8 /* angry birds-03.png */,
 				04CD8BA31CFE1E6000E8C7B1 /* Main.storyboard */,
 				04CD8BA61CFE1E6000E8C7B1 /* Assets.xcassets */,
 				04CD8BA81CFE1E6000E8C7B1 /* LaunchScreen.storyboard */,
@@ -202,7 +223,7 @@
 		04CD8B8F1CFE1E6000E8C7B1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = Mac;
 				TargetAttributes = {
 					04CD8B961CFE1E6000E8C7B1 = {
@@ -243,9 +264,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				047D72081EB27ADC00A262E8 /* angry birds-01.png in Resources */,
 				04CD8BAA1CFE1E6000E8C7B1 /* LaunchScreen.storyboard in Resources */,
+				04CD8C131CFFE9F100E8C7B1 /* red bird.png in Resources */,
+				04CD8BD11CFE1EDC00E8C7B1 /* fox.png in Resources */,
+				047D720A1EB27ADC00A262E8 /* angry birds-03.png in Resources */,
 				04CD8BA71CFE1E6000E8C7B1 /* Assets.xcassets in Resources */,
 				04CD8BA51CFE1E6000E8C7B1 /* Main.storyboard in Resources */,
+				04CD8BD01CFE1EDC00E8C7B1 /* tiger.png in Resources */,
+				04CD8BD21CFE1EDC00E8C7B1 /* deer.png in Resources */,
+				047D72091EB27ADC00A262E8 /* angry birds-02.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -341,8 +369,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -386,8 +416,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -498,6 +530,7 @@
 				04CD8BC61CFE1E6000E8C7B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04CD8BC71CFE1E6000E8C7B1 /* Build configuration list for PBXNativeTarget "SkutHW26ControlsPart2Tests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +539,7 @@
 				04CD8BC91CFE1E6000E8C7B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04CD8BCA1CFE1E6000E8C7B1 /* Build configuration list for PBXNativeTarget "SkutHW26ControlsPart2UITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +548,7 @@
 				04CD8BCC1CFE1E6000E8C7B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
